@@ -4,6 +4,12 @@
 
 Shuya Guan
 
+Notice: "I noticed that the notebook(code) may not display properly on GitHub — it shows an “Invalid Notebook” error due to a metadata issue. I tried to fix it, but unfortunately it still doesn’t render online.
+
+If possible, could you please download the notebook file and open it locally using Jupyter Notebook or VS Code? It should work fine in either environment.
+
+Thank you for your understanding!"
+
 ## **Objectives**
 As the frequency and severity of extreme weather events escalate due to climate change, urban transportation infrastructure—including highways, rail systems, and bridges—faces increasing exposure to flood-related disruptions. Recent analyses reveal that the global population residing in flood-prone areas has increased by 20% to 24% since the year 2000, a rate significantly higher than previously projected, with climate-related drivers such as intensified rainfall and sea-level rise cited as major contributors (Environmental Defense Fund, n.d.).
 Despite growing awareness, existing flood risk assessments often lack the spatial resolution and predictive capability required by transportation planners to effectively prioritize adaptation strategies. This study proposes the use of machine learning techniques to classify satellite imagery into flooded and non-flooded categories. The principal objective is to enhance flood detection accuracy using Sentinel satellite data, thereby supporting timely disaster response and advancing climate-resilient transportation planning.
